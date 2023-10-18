@@ -1,0 +1,78 @@
+WR,Segundos,Diferencia,Categoría,Atleta,Nacionalidad,Fecha,Ciudad,Pais
+02:55:18,10518,,M,Johnny Hayes,USA,24/07/1908,London,GBR
+02:52:45,10365,00:02:33,M,Robert Fowler,USA,01/01/1909,Yonkers,USA
+02:46:52,10012,00:05:53,M,James Clark,USA,12/02/1909,New York,USA
+02:46:04,9964,00:00:48,M,Albert Raines,USA,08/05/1909,New York,USA
+02:42:31,9751,00:03:33,M,Henry Barrett,GBR,08/05/1909,London,GBR
+02:40:34,9634,00:01:57,M,Thure Johansson,SWE,31/08/1909,Stockholm,SWE
+02:38:16,9496,00:02:18,M,Harry Green,GBR,12/05/1913,London,GBR
+02:36:06,9366,00:02:10,M,Alexis Ahlgren,SWE,31/05/1913,London,GBR
+02:32:35,9155,00:03:31,M,Hannes Kolehmainen,FIN,22/08/1920,Antwerp,BEL
+02:29:01,8941,00:03:34,M,Albert Michelsen,USA,12/10/1925,Port Chester,USA
+02:27:49,8869,00:01:12,M,Fusashige Suzuki,JPN,31/03/1935,Tokyo,JPN
+02:26:44,8804,00:01:05,M,Yasuo Ikenaka,JPN,03/04/1935,Tokyo,JPN
+02:26:42,8802,00:00:02,M,Sohn Kee-chung,JPK,03/11/1935,Tokyo,JPN
+02:25:39,8739,00:01:03,M,Suh Yun-bok,KOR,19/04/1947,Boston,USA
+02:20:42,8442,00:04:57,M,Jim Peters,GBR,14/06/1952,London,GBR
+02:18:40,8320,00:02:02,M,Jim Peters,GBR,13/06/1953,London,GBR
+02:18:34,8314,00:00:06,M,Jim Peters,GBR,04/10/1953,Turku,FIN
+02:17:39,8259,00:00:55,M,Jim Peters,GBR,26/06/1954,London,GBR
+02:15:17,8117,00:02:22,M,Sergei Popov,URS,24/08/1958,Stockholm,SWE
+02:15:16,8116,00:00:01,M,Abebe Bikila,ETH,10/09/1960,Rome,ITA
+02:15:15,8115,00:00:01,M,Toru Terasawa,JPN,17/02/1963,Beppu-?ita,JPN
+02:14:28,8068,00:00:47,M,Leonard Edelen,USA,15/06/1963,London,GBR
+02:13:55,8035,00:00:33,M,Basil Heatley,GBR,13/06/1964,London,GBR
+02:12:11,7931,00:01:44,M,Abebe Bikila,ETH,21/10/1964,Tokyo,JPN
+02:12:00,7920,00:00:11,M,Morio Shigematsu,JPN,12/06/1965,London,GBR
+02:09:36,7776,00:02:24,M,Derek Clayton,AUS,03/12/1967,Fukuoka,JPN
+02:08:33,7713,00:01:03,M,Derek Clayton,AUS,30/05/1969,Antwerp,BEL
+02:08:18,7698,00:00:15,M,Robert De Castella,AUS,06/12/1981,Fukuoka,JPN
+02:08:05,7685,00:00:13,M,Steve Jones,GBR,21/10/1984,Chicago,USA
+02:07:12,7632,00:00:53,M,Carlos Lopes,POR,20/04/1985,Rotterdam,NED
+02:06:50,7610,00:00:22,M,Belayneh Dinsamo,ETH,17/04/1988,Rotterdam,NED
+02:06:05,7565,00:00:45,M,Ronaldo da Costa,BRA,20/09/1998,Berlin,GER
+02:05:42,7542,00:00:23,M,Khalid Khannouchi,MOR,24/10/1999,Chicago,USA
+02:05:38,7538,00:00:04,M,Khalid Khannouchi,USA,14/04/2002,London,GBR
+02:04:55,7495,00:00:43,M,Paul Tergat,KEN,28/09/2003,Berlin,GER
+02:04:26,7466,00:00:29,M,Haile Gebrselassie,ETH,30/09/2007,Berlin,GER
+02:03:59,7439,00:00:27,M,Haile Gebrselassie,ETH,28/09/2008,Berlin,GER
+02:03:38,7418,00:00:21,M,Patrick Makau,KEN,25/09/2011,Berlin,GER
+02:03:23,7403,00:00:15,M,Wilson Kipsang,KEN,29/09/2013,Berlin,GER
+02:02:57,7377,00:00:26,M,Dennis Kimetto,KEN,28/09/2014,Berlin,GER
+02:01:39,7299,00:01:18,M,Eliud Kipchoge,KEN,16/09/2018,Berlin,GER
+02:01:09,7269,00:00:30,M,Eliud Kipchoge,KEN,25/09/2022,Berlin,GER
+03:40:22,13222,,F,Violet Piercy,GBR,03/10/1926,London,GBR
+03:37:07,13027,00:03:15,F,Merry Lepper,USA,16/12/1963,Culver City,USA
+03:27:45,12465,00:09:22,F,Dale Greig,GBR,23/05/1964,Ryde,GBR
+03:19:33,11973,00:08:12,F,Mildred Sampson,NZE,21/07/1964,Auckland,NZE
+03:14:23,11663,00:05:10,F,Maureen Wilton,CAN,06/05/1967,Toronto,CAN
+03:07:27,11247,00:06:56,F,Anni Pede-Erdkamp,GER,16/09/1967,Waldniel,GER
+03:02:53,10973,00:04:34,F,Caroline Walker,USA,28/02/1970,Seaside,USA
+03:01:42,10902,00:01:11,F,Elizabeth Bonner,USA,09/05/1971,Philadelphia,USA
+02:55:22,10522,00:06:20,F,Elizabeth Bonner,USA,19/09/1971,New York,USA
+02:49:40,10180,00:05:42,F,Cheryl Bridges,USA,05/12/1971,Culver City,USA
+02:46:36,9996,00:03:04,F,Michiko Gorman,USA,02/12/1973,Culver City,USA
+02:46:24,9984,00:00:12,F,Chantal Langlacé,FRA,27/10/1974,Neuf-Brisach,FRA
+02:43:54,9834,00:02:30,F,Jacqueline Hansen,USA,01/12/1974,Culver City,USA
+02:42:24,9744,00:01:30,F,Liane Winter,GER,21/04/1975,Boston,USA
+02:40:15,9615,00:02:09,F,Christa Vahlensieck,GER,03/05/1975,Dülmen,GER
+02:38:19,9499,00:01:56,F,Jacqueline Hansen,USA,12/10/1975,Eugene,USA
+02:35:15,9315,00:03:04,F,Chantal Langlacé,FRA,01/05/1977,Oiartzun,SPA
+02:34:47,9287,00:00:28,F,Christa Vahlensieck,GER,10/09/1977,Berlin,GER
+02:32:29,9149,00:02:18,F,Grete Waitz,NOR,22/10/1978,New York,USA
+02:27:32,8852,00:04:57,F,Grete Waitz,NOR,21/10/1979,New York,USA
+02:25:41,8741,00:01:51,F,Grete Waitz,NOR,26/10/1980,New York,USA
+02:25:28,8728,00:00:13,F,Allison Roe,NZE,25/10/1981,New York,USA
+02:25:28,8728,00:00:00,F,Grete Waitz,NOR,17/04/1983,London,GBR
+02:22:43,8563,00:02:45,F,Joan Benoit,USA,18/04/1983,Boston,USA
+02:21:06,8466,00:01:37,F,Ingrid Kristiansen,NOR,21/04/1985,London,GBR
+02:20:47,8447,00:00:19,F,Tegla Loroupe,KEN,19/04/1998,Rotterdam,NED
+02:20:43,8443,00:00:04,F,Tegla Loroupe,KEN,26/09/1999,Berlin,GER
+02:19:46,8386,00:00:57,F,Naoko Takahashi,JPN,30/09/2001,Berlin,GER
+02:18:47,8327,00:00:59,F,Catherine Ndereba,KEN,07/10/2001,Chicago,USA
+02:17:18,8238,00:01:29,F,Paula Radcliffe,GBR,13/10/2001,Chicago,USA
+02:15:25,8125,00:01:53,F,Paula Radcliffe,GBR,13/04/2001,London,GBR
+02:17:42,8262,,F,Paula Radcliffe,GBR,17/04/2005,London,GBR
+02:17:01,8221,00:00:41,F,Mary Jepkosgei Keitany,KEN,23/04/2017,London,GBR
+02:14:04,8044,00:02:57,F,Brigid Kosgei,KEN,13/10/2019,Chicago,USA
+02:11:53,7913,00:02:11,F,Tigst Assefa,ETH,24/09/2023,Berlin,GER
